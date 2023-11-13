@@ -1,0 +1,21 @@
+int main()
+{
+	string name = "Tasnuva";
+
+	
+
+	bool flag = false;
+	int var$iable;
+
+	calledFuntion(myvar);
+	non_parameterizedFunction();
+
+	int i = 0;
+	do
+	{
+		i++;
+	}
+	while(i<10);
+
+	return 0;
+}

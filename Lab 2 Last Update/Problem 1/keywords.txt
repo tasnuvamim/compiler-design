@@ -1,0 +1,16 @@
+if 
+else
+return 
+for 
+while
+do 
+int 
+char 
+string 
+bool 
+double 
+float 
+cout 
+endl 
+true 
+false
